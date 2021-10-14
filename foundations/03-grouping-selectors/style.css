@@ -1,0 +1,13 @@
+.container {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+#clk1 {
+    background-color: black;
+    color: cornsilk;
+}
+
+#clk2 {
+    background-color: yellow;
+}
